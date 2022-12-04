@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NedxLab by name Odo Chinedu Steve
 - 👀 I’m interested in Web Development and Internet of Things
-- 👨🏾‍💻 i am proficient in HTML, CSS, Javascript, PHP, mySql and still learning React,Node.js, Moongoose and as well Express with background knowledge in C and C++.
+- 👨🏾‍💻 i am proficient in HTML, CSS, Tailwind, Bootstrap, Javascript, PHP, mySql, React.js, Node.js and still learning Moongoose and as well Express with background knowledge in C and C++.
 - 🌱 I’m currently expanding my skills and building more projects so as to contribute to open source development.
 - 💞️ I’m looking to collaborate on any project and as well on Internship opportunities as there is always room for Improvement.
 - 📫 How to reach me +2349034946540 or at my Email: Odoc047@gmail.com
