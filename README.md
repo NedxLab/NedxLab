@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @NedxLab by name Odo Chinedu Steve
-- 👀 I’m interested in Web Development and Internet of Things
-- 👨🏾‍💻 i am proficient in HTML, CSS, Tailwind, Bootstrap, Javascript, PHP, mySql, React.js, Node.js and still learning Moongoose and as well Express with background knowledge in C and C++.
-- 🌱 I’m currently expanding my skills and building more projects so as to contribute to open source development.
-- 💞️ I’m looking to collaborate on any project and as well on Internship opportunities as there is always room for Improvement.
-- 📫 How to reach me +2349034946540 or at my Email: Odoc047@gmail.com
+
+  
+
+
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Chinedu Odo </a> 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=26&pause=1204&color=1A5C79&background=193F1300&center=true&vCenter=true&width=486&height=52&lines=My+name+is+Chinedu+Odo;I+am+a+Full-Stack+Developer;I+have+a+Confession++%F0%9F%98%9E%F0%9F%98%94;I+love+Javascript+so+much+;+I+do+everything++Frontend" alt="Typing SVG" /></a>
+
+
+-👀 I’m interested in Web Development and Internet of Things <br />
+-👨🏾‍💻 i am proficient in HTML, CSS, Tailwind, Bootstrap, Javascript, PHP, mySql, React.js, Node.js and still learning Moongoose and as well Express with background knowledge in C and C++.<br />
+-🌱 I’m currently expanding my skills and building more projects so as to contribute to open source development.<br />
+-💞️ I’m looking to collaborate on any project and as well on Internship opportunities as there is always room for Improvement.<br />
+
 -👨🏾‍💻 i'll be building beautiful projects and be sharing them here i'll love you to support me and as well join me on my journey through the Adventures of React and Vanilla Javascript.
 <!---
 NedxLab/NedxLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,20 +18,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-  
-![Snake animation](https://github.com/nedxlab/nedxlab/blob/output/github-contribution-grid-snake.svg)
-
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Chinedu Odo </a></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=26&pause=1204&color=1A5C79&background=193F1300&center=true&vCenter=true&width=486&height=52&lines=My+name+is+Chinedu+Odo;I+am+a+Full-Stack+Developer;I+have+a+Confession++%F0%9F%98%9E%F0%9F%98%94;I+love+Javascript+so+much+;+I+do+everything++Frontend" alt="Typing SVG" /></a>
-
-
 <h3 align="left" font-family="Rajdhani" >Connect with me: </h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/jigar-sable/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jigarsable21@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/jigarsable.dev"><img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-4EA94B?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-   <a href="https://www.instagram.com/jigarsable.dev"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230769AD?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://t.me/lifecode5"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nedxlab/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:odoc047@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://wa.me/2349034946540?text=Hello%2C%20I%20have%20a%20job%20for%20you"><img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-4EA94B?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+   <a href=""><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230769AD?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/nedxlab"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
