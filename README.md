@@ -10,9 +10,70 @@ NedxLab/NedxLab is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedxlab&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedxlab&layout=compact&theme=gruvbox)
-)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Snake animation](https://github.com/nedxlab/nedxlab/blob/output/github-contribution-grid-snake.svg)
+
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Chinedu Odo </a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=26&pause=1204&color=1A5C79&background=193F1300&center=true&vCenter=true&width=486&height=52&lines=My+name+is+Chinedu+Odo;I+am+a+Full-Stack+Developer;I+have+a+Confession++%F0%9F%98%9E%F0%9F%98%94;I+love+Javascript+so+much+;+I+do+everything++Frontend" alt="Typing SVG" /></a>
+
+
+<h3 align="left" font-family="Rajdhani" >Connect with me: </h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/jigar-sable/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jigarsable21@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/jigarsable.dev"><img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-4EA94B?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+   <a href="https://www.instagram.com/jigarsable.dev"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230769AD?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/lifecode5"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
+
+<h3 align="left">Web Tech Stack :</h3>
+<div align="left">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<br>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Three.Js-593D88?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+</div>
+
+<h3 align="left">Languages :</h3>
+<div align="left">
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+ <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+ 
+</div>
+
+<h3 align="left">Databases :</h3>
+<div align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  
+</div>
+
+
+<br/>
+
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nedxlab&theme=noctis_minimus&show_icons=true" />
+ </td>
+    <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedxlab&theme=noctis_minimus&layout=compact" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedxlab&theme=dark" alt="Nedxlab" /></p>
+  </div>
