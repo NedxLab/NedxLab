@@ -65,15 +65,24 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
-
+<div align="center">
 <table>
   <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nedxlab&theme=noctis_minimus&show_icons=true" />
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nedxlab&theme=nord&show_icons=true" />
  </td>
-    <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedxlab&theme=noctis_minimus&layout=compact" /></td>
+    <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedxlab&theme=nord&layout=compact" /></td>
   </tr>
 </table>
-
+</div>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedxlab&theme=dark" alt="Nedxlab" /></p>
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedxlab&theme=react" alt="Nedxlab" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nedxlab&theme=vue" /> </td>
+  </tr>
+</table>
   </div>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nedxlab&theme=minimal" />
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nedxlab&theme=nord" />
+</div>
