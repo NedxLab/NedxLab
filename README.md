@@ -67,13 +67,13 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <table>
   <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nedxlab&theme=nord&show_icons=true" />
- </td>
-    <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedxlab&theme=nord&layout=compact" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nedxlab&show_icons=true&theme=react&locale=en" alt="nedxlab" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nedxlab&show_icons=true&theme=react&locale=en&layout=compact" alt="nedxlab" /></td>
   </tr>
 </table>
 </div>
 <div align="center">
+  
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedxlab&theme=react" alt="Nedxlab" /></td>
