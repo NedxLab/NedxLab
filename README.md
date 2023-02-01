@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/nedxlab/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:odoc047@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://wa.me/2349034946540?text=Hello%2C%20I%20have%20a%20job%20for%20you"><img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-4EA94B?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-   <a href=""><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230769AD?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+   <a href="https://twitter.com/nedxlab"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230769AD?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://t.me/nedxlab"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
