@@ -7,9 +7,9 @@
 
 
 -👀 I’m interested in Web Development and Internet of Things <br />
--👨🏾‍💻 i am proficient in HTML, CSS, Tailwind, Bootstrap, Javascript, PHP, mySql, React.js, Node.js,Moongoose,Express, Next.js, Three.js with background knowledge in C and C++.<br />
+-👨🏾‍💻 I am skilled in HTML, CSS, Tailwind, Bootstrap, Javascript, PHP, mySql, React.js, Node.js,Moongoose,Express, Next.js, Three.js with background knowledge in C and C++.<br />
 -🌱 I’m currently expanding my skills and building more projects so as to contribute to open source development.<br />
--💞️ I’m looking to collaborate on any project and as well on Internship opportunities as there is always room for Improvement.<br />
+-💞️ I’m looking to collaborate on any project and as well on job opportunities.<br />
 
 -👨🏾‍💻 i'll be building beautiful projects and be sharing them here i'll love you to support me and as well join me on my journey through the Adventures of React and Vanilla Javascript.
 <!---
