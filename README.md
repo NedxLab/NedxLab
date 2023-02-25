@@ -11,7 +11,7 @@
 -🌱 I’m currently expanding my skills and building more projects so as to contribute to open source development.<br />
 -💞️ I’m looking to collaborate on any project and as well on job opportunities.<br />
 
--👨🏾‍💻 i'll be building beautiful projects and be sharing them here i'll love you to support me and as well join me on my journey through the Adventures of React and Vanilla Javascript.
+-👨🏾‍💻 I'll be building beautiful projects and be sharing them here i'll love you to support me and as well join me on my journey through the Adventures of React and Vanilla Javascript.
 <!---
 NedxLab/NedxLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
