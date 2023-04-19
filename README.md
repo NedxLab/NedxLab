@@ -77,8 +77,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedxlab&theme=react" alt="Nedxlab" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nedxlab&theme=vue" /> </td>
-  </tr>
+   </tr>
 </table>
   </div>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nedxlab&theme=minimal" />
