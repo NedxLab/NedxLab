@@ -6,12 +6,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=26&pause=1204&color=1A5C79&background=193F1300&center=true&vCenter=true&width=486&height=52&lines=My+name+is+Chinedu+Odo;I+am+a+Full-Stack+Developer;I+have+a+Confession++%F0%9F%98%9E%F0%9F%98%94;I+love+Javascript+so+much+%E2%9D%A4%EF%B8%8F;+I+do+everything++Frontend" alt="Typing SVG" /></a>
 
 
--👀 I’m interested in Web Development and Internet of Things <br />
--👨🏾‍💻 I am skilled in HTML, CSS, Tailwind, Bootstrap, Javascript, PHP, mySql, React.js, Node.js,Moongoose,Express, Next.js, Three.js with background knowledge in C and C++.<br />
+-👀 I’m a Web and App Developer. <br />
+-👨🏾‍💻 I am skilled in HTML, CSS, Tailwind, Bootstrap, Javascript, PHP, mySql, React.js, Node.js,Moongoose,Express, Next.js, Three.js, React-Native and Flutter with background knowledge in C and C++.<br />
 -🌱 I’m currently expanding my skills and building more projects so as to contribute to open source development.<br />
 -💞️ I’m looking to collaborate on any project and as well on job opportunities.<br />
 
--👨🏾‍💻 I'll be building beautiful projects and be sharing them here i'll love you to support me and as well join me on my journey through the Adventures of React and Vanilla Javascript.
+
 <!---
 NedxLab/NedxLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
