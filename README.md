@@ -3,13 +3,13 @@
 
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Chinedu Odo </a> 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=26&pause=1204&color=1A5C79&background=193F1300&center=true&vCenter=true&width=486&height=52&lines=My+name+is+Chinedu+Odo;I+am+a+Full-Stack+Developer;I+have+a+Confession++%F0%9F%98%9E%F0%9F%98%94;I+love+Javascript+so+much+%E2%9D%A4%EF%B8%8F;+I+do+everything++Frontend" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=600&size=26&pause=1204&color=1A5C79&background=193F1300&center=true&vCenter=true&width=486&height=52&lines=My+name+is+Chinedu+Odo;I+am+a+Full-Stack+Developer;Web3+Enthusiast+%E2%9D%A4%EF%B8%8F; I+breathe+Next.Js++%F0%9F%98%9E%F0%9F%98%94;I+love+Javascript+so+much+%E2%9D%A4%EF%B8%8F;+I+do+everything++Frontend" alt="Typing SVG" /></a>
 
 
 -👀 I’m a Web and App Developer. <br />
--👨🏾‍💻 I am skilled in HTML, CSS, Tailwind, Bootstrap, Javascript, PHP, mySql, React.js, Node.js,Moongoose,Express, Next.js, Three.js, React-Native and Flutter with background knowledge in C and C++.<br />
--🌱 I’m currently expanding my skills and building more projects so as to contribute to open source development.<br />
--💞️ I’m looking to collaborate on any project and as well on job opportunities.<br />
+-👨🏾‍💻 I am skilled in  Typescript, PHP, MySQL, React.js, Moongoose, Express, Next.js, Three.js, React-Native, and Flutter with background knowledge in C and C++.<br />
+-🌱 I’m currently expanding my skills and building more projects to contribute to open-source development.<br />
+-💞️ Hit me up and let us collaborate on any project and as well on job opportunities.<br />
 
 
 <!---
