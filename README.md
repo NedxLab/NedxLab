@@ -2,8 +2,8 @@
   
 
 
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Chinedu Odo </a> 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=600&size=26&pause=1204&color=1A5C79&background=193F1300&center=true&vCenter=true&width=486&height=52&lines=My+name+is+Chinedu+Odo;I+am+a+Full-Stack+Developer;Web3+Enthusiast+%E2%9D%A4%EF%B8%8F; I+breathe+Next.Js++%F0%9F%98%9E%F0%9F%98%94;I+love+Javascript+so+much+%E2%9D%A4%EF%B8%8F;+I+do+everything++Frontend" alt="Typing SVG" /></a>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/nedxlab/" target="_blank"> Chinedu Odo </a> 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=500&size=30&pause=1204&color=ffffff&background=0508e8&center=true&vCenter=true&width=700&height=50&lines=My+name+is+Chinedu+Odo;I+am+a+Full-Stack+Developer;Web3+Enthusiast+%E2%9D%A4%EF%B8%8F;I+breathe+Next.Js+&#x1F60C;+&#x1F60D;+;I+love+Javascript+so+much+%E2%9D%A4%EF%B8%8F;+I+do+everything++Frontend+&#x1F600;" alt="Typing SVG" /></a>
 
 
 -👀 I’m a Web and App Developer. <br />
@@ -45,6 +45,8 @@ You can click the Preview link to take a look at your changes.
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Three.Js-593D88?style=for-the-badge&logo=three.js&logoColor=white"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/flutter-38d17d?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="Typescript" src="https://img.shields.io/badge/typescript-47d6fe?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
 </div>
 
@@ -52,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
- 
+<img alt="Dart" src="https://img.shields.io/badge/Dart-4d270d?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
 </div>
 
 <h3 align="left">Databases :</h3>
