@@ -45,8 +45,8 @@ You can click the Preview link to take a look at your changes.
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Three.Js-593D88?style=for-the-badge&logo=three.js&logoColor=white"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="Flutter" src="https://img.shields.io/badge/flutter-38d17d?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="Typescript" src="https://img.shields.io/badge/typescript-47d6fe?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/flutter-38d17d?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img alt="Typescript" src="https://img.shields.io/badge/typescript-4ed6fe?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 </div>
 
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-4d270d?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+<img alt="Dart" src="https://img.shields.io/badge/Dart-4d270d?style=for-the-badge&logo=dart&logoColor=white"/> 
 </div>
 
 <h3 align="left">Databases :</h3>
