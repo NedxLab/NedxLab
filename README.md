@@ -6,8 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=500&size=30&pause=1204&color=ffffff&background=0508e8&center=true&vCenter=true&width=700&height=50&lines=My+name+is+Chinedu+Odo;I+am+a+Full-Stack+Developer;Web3+Enthusiast+%E2%9D%A4%EF%B8%8F;I+breathe+Next.Js+&#x1F60C;+&#x1F60D;+;I+love+Javascript+so+much+%E2%9D%A4%EF%B8%8F;+I+do+everything++Frontend+&#x1F600;" alt="Typing SVG" /></a>
 
 
--👀 I’m a Web and App Developer. <br />
--👨🏾‍💻 I am skilled in  Typescript, PHP, MySQL, React.js, Moongoose, Express, Next.js, Three.js, React-Native, and Flutter with background knowledge in C and C++.<br />
+-👀 I’m a fullStack Web and App Developer with primary experience in the frontend. <br />
+-👨🏾‍💻 I am skilled in  Typescript(Javascript), PHP, MySQL, React.js, Next.js, Three.js, React-Native, and Flutter with background knowledge in C and C++.<br />
 -🌱 I’m currently expanding my skills and building more projects to contribute to open-source development.<br />
 -💞️ Hit me up and let us collaborate on any project and as well on job opportunities.<br />
 
@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
    </tr>
 </table>
   </div>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nedxlab&theme=minimal" />
+  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nedxlab&theme=nord" />
 </div>
