@@ -7,7 +7,7 @@
 
 
 -👀 I’m a fullStack Web and App Developer with primary experience in the frontend. <br />
--👨🏾‍💻 I am skilled in  Typescript(Javascript), PHP, MySQL, React.js, Next.js, Three.js, React-Native, and Flutter with background knowledge in C and C++.<br />
+-👨🏾‍💻 I am skilled in  Typescript(Javascript), PHP, MySQL, React.js, Next.js, Three.js, React-Native, Solidity and Flutter with background knowledge in C and C++.<br /> 
 -🌱 I’m currently expanding my skills and building more projects to contribute to open-source development.<br />
 -💞️ Hit me up and let us collaborate on any project and as well on job opportunities.<br />
 
