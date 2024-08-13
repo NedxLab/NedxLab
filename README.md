@@ -69,8 +69,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-chinedu.vercel.app/api?username=nedxlab&show_icons=true&theme=catppuccin_latte&locale=en" alt="nedxlab" /></td>
-    <td><img src="https://github-readme-stats-chinedu.vercel.app/api/top-langs?username=nedxlab&show_icons=true&theme=react&locale=en&layout=compact&langs_count=10" alt="nedxlab" /></td>
+    <td><img src="https://github-readme-stats-chinedu.vercel.app/api?username=nedxlab&show_icons=true&theme=default_repocard&locale=en" alt="nedxlab" /></td>
+    <td><img src="https://github-readme-stats-chinedu.vercel.app/api/top-langs?username=nedxlab&show_icons=true&theme=default_repocard&locale=en&layout=compact&langs_count=10" alt="nedxlab" /></td>
   </tr>
 </table>
 </div>
@@ -78,11 +78,10 @@ You can click the Preview link to take a look at your changes.
   
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedxlab&theme=react" alt="Nedxlab" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NedxLab&date_format=j%20M%5B%20Y%5D&theme=default_repocard" alt="Nedxlab" /></td>
    </tr>
 </table>
   </div>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nedxlab&theme=nord" />
+ <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nedxlab&theme=onedark" />
 </div>
