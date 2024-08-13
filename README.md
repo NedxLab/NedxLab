@@ -69,8 +69,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=nedxlab&show_icons=true&theme=react&locale=en" alt="nedxlab" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nedxlab&show_icons=true&theme=react&locale=en&layout=compact&langs_count=10" alt="nedxlab" /></td>
+    <td><img src="https://github-readme-stats-chinedu.vercel.app/api?username=nedxlab&show_icons=true&theme=catppuccin_latte&locale=en" alt="nedxlab" /></td>
+    <td><img src="https://github-readme-stats-chinedu.vercel.app/api/top-langs?username=nedxlab&show_icons=true&theme=react&locale=en&layout=compact&langs_count=10" alt="nedxlab" /></td>
   </tr>
 </table>
 </div>
